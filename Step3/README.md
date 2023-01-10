@@ -180,13 +180,21 @@ train_dc_gan(D_DC, G_DC, D_DC_optim, G_DC_optim, discriminator_loss, generator_l
 ```
 
 > Iter: 0, D: 1.387, G:0.6381
+>
 > ![在这里插入图片描述](https://img-blog.csdnimg.cn/d267c4b9fd7e44d2a083ac3686045274.png)
+>
 > Iter: 250, D: 0.7821, G:1.807
+>
 > ![在这里插入图片描述](https://img-blog.csdnimg.cn/7bad9a7d6bd24ffea8c9ec7f7f15c0dd.png)
+>
 > ......
+>
 > Iter: 1500, D: 1.216, G:0.7218
+>
 > ![在这里插入图片描述](https://img-blog.csdnimg.cn/38630561cf604a89a5cecb38bc138fd8.png)
+>
 > Iter: 1750, D: 1.143, G:1.092
+>
 > ![在这里插入图片描述](https://img-blog.csdnimg.cn/785438d7d5f74c51a5fd2a0736a692bd.png)
 
 可以看到，通过 DCGANs 能够得到更加清楚的结果，而且也可以更快地收敛
