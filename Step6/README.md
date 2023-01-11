@@ -159,5 +159,6 @@ LSGANs 是对 GAN 的一次优化，从实验的情况中，有时候也发现�
 [1]: https://arxiv.org/abs/1611.04076  "LSGAN"
 [2]: https://github.com/eriklindernoren/PyTorch-GAN/blob/master/implementations/lsgan/lsgan.py
 [3]: https://www.jiqizhixin.com/articles/2018-10-15-24 "LSGAN：最小二乘生成对抗网络"
+
 [4]: https://zhuanlan.zhihu.com/p/25768099
 
