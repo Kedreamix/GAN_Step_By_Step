@@ -32,7 +32,7 @@ GSBS - Step5: [ACGAN][ACGAN]
 
 GSBS - Step6: [LSGAN][LSGAN]
 
-GSBS - Step7: [WGAN]()
+GSBS - Step7: [WGAN][WGAN]
 
 
 
@@ -43,7 +43,8 @@ GSBS - Step7: [WGAN]()
 - [x] CGAN (Conditional GAN)
 - [x] ACGAN (Auxiliary Classifier GAN)
 - [x] LSGAN (Least Squares GAN)
-- [ ] WGAN (Wasserstein GAN)
+- [x] WGAN (Wasserstein GAN)
+- [ ] WGAN GP（Wasserstein GAN GP）
 - [ ] SRGAN (Super-Resolution GAN)
 - [ ] ESRAN (Enhanced Super-Resolution GAN)
 - [ ] InfoGAN 
@@ -66,4 +67,7 @@ Github地址：[https://github.com/Dreaming-future/GAN_Step_By_Step](https://git
 [2]: https://github.com/hindupuravinash/the-gan-zoo
 [DCGAN]: https://redamancy.blog.csdn.net/article/details/127098655
 [CGAN]: https://redamancy.blog.csdn.net/article/details/127105353
+
 [ACGAN]: https://redamancy.blog.csdn.net/article/details/127112077
+[LSGAN]:  https://redamancy.blog.csdn.net/article/details/127293183
+[WGAN]: https://redamancy.blog.csdn.net/article/details/128634135
